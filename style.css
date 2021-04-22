@@ -58,5 +58,5 @@ footer > p {
 article > img{
     border: solid black 1px;
     margin: 10px 10px;
-    max-width: 5000px;
+    max-width: 10000px;
 }
