@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+}
+
+header, footer{
+    background-color: #9fabad ;
+    border: black 1px solid;
+    margin-bottom: 20px;
+}
+
+h1 {
+    
+    color: black;
+    text-align: center;
+
+}
+
+nav {
+    text-align: center;
+}
+
+li {
+    border:rgb(5, 5, 5) 2px solid;
+    display:inline-block ;
+    background-color: #0c0f0f;
+    padding: 10px;
+    margin: 20px 20px;
+    color: ivory;
+    font-style:inherit;
+    
+}
+
+article {
+    text-align:center;
+}
+article > p {
+    text-align:start;
+}
+article > h4 {
+    text-align:start;
+}
+footer > p {
+    color: #0d0d0e;
+
+}
+
+#ptag_color {
+    color:rgb(0, 14, 12);
+    text-align: start;
+}
+
+.other_color {
+    color:rgb(10, 10, 10);
+}
+
+
+
+article > img{
+    border: solid black 1px;
+    margin: 10px 10px;
+}
