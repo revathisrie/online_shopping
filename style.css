@@ -3,7 +3,7 @@ body {
 }
 
 header, footer{
-    background-color: #9fabad ;
+    background-color: #87a5aa ;
     border: black 1px solid;
     margin-bottom: 20px;
 }
@@ -22,7 +22,7 @@ nav {
 li {
     border:rgb(5, 5, 5) 2px solid;
     display:inline-block ;
-    background-color: #0c0f0f;
+    background-color: #e4ecec;
     padding: 10px;
     margin: 20px 20px;
     color: ivory;
@@ -58,4 +58,5 @@ footer > p {
 article > img{
     border: solid black 1px;
     margin: 10px 10px;
+    max-width: 5000px;
 }
